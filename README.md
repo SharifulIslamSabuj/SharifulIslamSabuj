@@ -80,7 +80,7 @@ Layered REST API framework (Test → Service → Client) built with REST Assured
 
 ---
 
-### [Mobile Automation Framework — Android](https://github.com/SharifulIslamSabuj/MobileAutomation-Appium)
+### [Mobile Automation Framework](https://github.com/SharifulIslamSabuj/MobileAutomation-Appium)
 
 ![Appium](https://img.shields.io/badge/Appium-Android-EE376D?style=flat)
 &nbsp;
