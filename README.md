@@ -96,9 +96,17 @@ Appium-based Android automation framework supporting emulator and real device ex
 
 ### [ParaBank Advanced Framework](https://github.com/SharifulIslamSabuj/ParabankAutomation-AdvancedFramework)
 
-POM-based Selenium framework with parallel execution, data-driven testing, and dual reporting (ExtentReports + Allure).
+![Java](https://img.shields.io/badge/Java-17-007396?logo=openjdk&logoColor=white)
+&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-4-43B02A?logo=selenium&logoColor=white)
+&nbsp;
+![TestNG](https://img.shields.io/badge/TestNG-7-FF6C37?style=flat)
+&nbsp;
+![ExtentReports](https://img.shields.io/badge/ExtentReports-5-blueviolet?style=flat)
+&nbsp;
+![Allure](https://img.shields.io/badge/Allure-Reports-FFCA28?style=flat)
 
-`Java` `Selenium` `TestNG` `ExtentReports` `Allure`
+POM-based Selenium framework with parallel execution, data-driven testing, and dual reporting (ExtentReports + Allure).
 
 ---
 
