@@ -126,7 +126,7 @@ POM-based Selenium framework with parallel execution, data-driven testing, and d
 
 ## Currently Exploring
 
-Cloud testing (BrowserStack · Sauce Labs) &nbsp;·&nbsp; OWASP ZAP in CI pipelines &nbsp;·&nbsp; Distributed JMeter &nbsp;·&nbsp; Test observability
+AI-assisted Test Automation &nbsp;·&nbsp; Advanced Selenium with Java &nbsp;·&nbsp; API Testing Automation &nbsp;·&nbsp; CI/CD Testing Integration &nbsp;·&nbsp; Performance Testing with JMeter &nbsp;·&nbsp; Cloud Testing Platforms
 
 ---
 
