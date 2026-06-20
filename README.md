@@ -4,7 +4,7 @@
 
 **Senior QA Automation Engineer &nbsp;·&nbsp; SDET &nbsp;·&nbsp; Automation Framework Architect**
 
-📍 Dhaka, Bangladesh &nbsp;·&nbsp; Open to Remote Opportunities
+📍 Dhaka, Bangladesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharifulislam--sqa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharifulislam-sqa/)
 &nbsp;
@@ -18,14 +18,9 @@
 
 ---
 
-Senior QA engineer with **13+ years** of experience across insurance, healthcare, retail, and e-commerce. I design and build automation frameworks from scratch, integrate quality gates into CI/CD pipelines, and lead QA strategy at enterprise scale. Enterprise clients include **MetLife, FedEx, Walmart, ASOS, Tesco, Kaiser Permanente, and Aetna**.
+**13+ years** designing and delivering automation frameworks, QA strategy, and quality engineering across insurance, healthcare, retail, and e-commerce. Led UAT for **MetLife's Core Life Insurance platform** covering 100+ business scenarios. Enterprise delivery experience includes **FedEx, Walmart, ASOS, Tesco, Kaiser Permanente, and Aetna**.
 
-**Key Results**
-
-| | |
-|---|---|
-| 40% reduction in manual regression effort | 30% reduction in defect leakage |
-| 80+ regression scenarios automated | 100+ UAT scenarios led at MetLife |
+&nbsp;&nbsp;↳ 40% reduction in manual regression effort &nbsp;&nbsp;·&nbsp;&nbsp; 30% reduction in defect leakage
 
 ---
 
@@ -37,7 +32,7 @@ Senior QA engineer with **13+ years** of experience across insurance, healthcare
 
 **Mobile** &nbsp;·&nbsp; Appium · Android (Emulator & Real Device)
 
-**Performance** &nbsp;·&nbsp; Apache JMeter · Load Testing · Stress Testing
+**Performance** &nbsp;·&nbsp; Apache JMeter · Load & Stress Testing
 
 **CI/CD & DevOps** &nbsp;·&nbsp; GitHub Actions · Jenkins · Docker · Selenium Grid · Azure DevOps
 
@@ -47,9 +42,9 @@ Senior QA engineer with **13+ years** of experience across insurance, healthcare
 
 ---
 
-## Featured Projects
+## Engineering Portfolio
 
-### [BDD Automation Framework — ParaBank](https://github.com/SharifulIslamSabuj/BDDFramework-ParabankAutomation)
+### [BDD Automation Framework — ParaBank](https://github.com/SharifulIslamSabuj/BDDFramework-ParabankAutomation) &nbsp; ← Start here
 
 [![CI](https://github.com/SharifulIslamSabuj/BDDFramework-ParabankAutomation/actions/workflows/automation-test.yml/badge.svg)](https://github.com/SharifulIslamSabuj/BDDFramework-ParabankAutomation/actions)
 &nbsp;
@@ -60,8 +55,10 @@ Senior QA engineer with **13+ years** of experience across insurance, healthcare
 ![Cucumber](https://img.shields.io/badge/Cucumber-7-23D96C?logo=cucumber&logoColor=white)
 &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-2088FF?logo=githubactions&logoColor=white)
 
-Enterprise-grade BDD automation framework built with Java 17, Selenium 4, Cucumber 7, and TestNG. Implements thread-safe parallel execution, multi-environment configuration, API-first test data setup, Selenium Grid via Docker Compose, and a full GitHub Actions CI/CD pipeline with Allure and ExtentReports.
+Enterprise-grade BDD framework built with Java 17, Selenium 4, Cucumber 7, and TestNG. Demonstrates thread-safe parallel execution, multi-environment configuration, API-first test data setup, Selenium Grid via Docker Compose, and a full GitHub Actions CI/CD pipeline with Allure and ExtentReports.
 
 `Java 17` `Selenium 4` `Cucumber BDD` `TestNG` `Docker` `Selenium Grid` `GitHub Actions` `Allure` `ExtentReports`
 
@@ -77,7 +74,7 @@ Enterprise-grade BDD automation framework built with Java 17, Selenium 4, Cucumb
 &nbsp;
 ![Allure](https://img.shields.io/badge/Allure-Reports-FFCA28?style=flat)
 
-Layered REST API automation framework (Test → Service → Client) built with REST Assured 6 and TestNG. Covers product, cart, order, and client APIs with POJO-based request modeling, dynamic token authentication, and end-to-end order flow validation.
+Layered REST API framework (Test → Service → Client) built with REST Assured 6 and TestNG. POJO-based request modeling, dynamic token authentication, and end-to-end order flow validation across product, cart, and order APIs.
 
 `Java 17` `REST Assured 6` `TestNG` `Allure` `Builder Pattern` `Singleton Pattern`
 
@@ -91,9 +88,17 @@ Layered REST API automation framework (Test → Service → Client) built with R
 &nbsp;
 ![Allure](https://img.shields.io/badge/Allure-Reports-FFCA28?style=flat)
 
-Appium-based Android automation framework supporting both emulator and real device execution with Allure reporting integration.
+Appium-based Android automation framework supporting emulator and real device execution with Allure reporting.
 
 `Java` `Appium` `TestNG` `Android` `Allure`
+
+---
+
+### [ParaBank Advanced Framework](https://github.com/SharifulIslamSabuj/ParabankAutomation-AdvancedFramework)
+
+POM-based Selenium framework with parallel execution, data-driven testing, and dual reporting (ExtentReports + Allure).
+
+`Java` `Selenium` `TestNG` `ExtentReports` `Allure`
 
 ---
 
@@ -104,8 +109,8 @@ Appium-based Android automation framework supporting both emulator and real devi
 - Implemented REST Assured API testing and JMeter performance testing; integrated with Jenkins CI/CD
 
 **ADN DigiNet / MetLife Inc. — Test Orchestrator, Core Life Insurance UAT** *(Jan 2024 – Aug 2024)*
-- Led end-to-end UAT execution covering 100+ business scenarios for a Core Life Insurance platform
-- Built the full testing process: RTM, defect lifecycle management, and release-readiness reporting for senior stakeholders
+- Led end-to-end UAT for 100+ business scenarios on a Core Life Insurance platform
+- Built full testing process: RTM, defect lifecycle management, and release-readiness reporting for senior stakeholders
 
 **LEADS Corporation Limited — Sr. SQA Engineer / Lead Process Engineer** *(Feb 2015 – Dec 2023)*
 - Led QA across enterprise systems for FedEx, Walmart, ASOS, Tesco, Kaiser Permanente, and Aetna
@@ -115,7 +120,7 @@ Appium-based Android automation framework supporting both emulator and real devi
 - Built Selenium + Java + TestNG automation frameworks from scratch; automated 50+ regression test cases
 
 **ServicEngineBPO — Software Test Engineer** *(Sep 2011 – Mar 2013)*
-- Manual regression and accessibility testing for UsableNet Inc. across real devices and multiple browsers
+- Regression and accessibility testing for UsableNet Inc. across real devices and multiple browsers
 
 ---
 
@@ -137,9 +142,7 @@ Cloud testing (BrowserStack · Sauce Labs) &nbsp;·&nbsp; OWASP ZAP in CI pipeli
 
 ---
 
-## Connect
-
-Available for **Senior QA Automation Engineer, SDET, QA Lead, and Automation Architect** remote roles.
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharifulislam--sqa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharifulislam-sqa/)
 &nbsp;
