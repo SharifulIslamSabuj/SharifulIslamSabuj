@@ -2,7 +2,7 @@
 
 # Md. Shariful Islam
 
-**Senior QA Automation Engineer &nbsp;·&nbsp; SDET &nbsp;·&nbsp; Automation Framework Architect**
+**SENIOR SOFTWARE QA ENGINEER &nbsp;|&nbsp; QA AUTOMATION ENGINEER &nbsp;|&nbsp; TEST AUTOMATION ENGINEER**
 
 📍 Dhaka, Bangladesh
 
