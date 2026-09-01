@@ -137,56 +137,61 @@
 
 ## 🚀 &nbsp;Featured Automation Frameworks
 
-<div align="center">
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/SharifulIslamSabuj/playwright-typescript-hybrid-framework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifulIslamSabuj&repo=playwright-typescript-hybrid-framework&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&border_color=1f2937" alt="Playwright + TypeScript Hybrid Framework"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SharifulIslamSabuj/playwright-typescript-hybrid-framework">⚡ Playwright + TypeScript Hybrid</a></h3>
+      <p>Scalable <b>UI & API</b> automation with reusable components and CI/CD.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      </p>
     </td>
-    <td>
-      <a href="https://github.com/SharifulIslamSabuj/playwright-python-hybrid-framework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifulIslamSabuj&repo=playwright-python-hybrid-framework&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&border_color=1f2937" alt="Playwright + Python Hybrid Framework"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/SharifulIslamSabuj/mobile-automation-framework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifulIslamSabuj&repo=mobile-automation-framework&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&border_color=1f2937" alt="Mobile Automation Framework"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/SharifulIslamSabuj/api-automation-framework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifulIslamSabuj&repo=api-automation-framework&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&border_color=1f2937" alt="Grocery Store API Framework"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SharifulIslamSabuj/playwright-python-hybrid-framework">🐍 Playwright + Python Hybrid</a></h3>
+      <p>Enterprise-grade UI / API / Hybrid across <b>Chromium · Firefox · WebKit</b>, parallel runs, Allure & pytest-html.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/SharifulIslamSabuj/BDDFramework-ParabankAutomation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifulIslamSabuj&repo=BDDFramework-ParabankAutomation&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&border_color=1f2937" alt="Selenium + BDD Framework (ParaBank)"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SharifulIslamSabuj/mobile-automation-framework">📱 Mobile Automation Framework</a></h3>
+      <p>Real-device & Android-emulator testing with Extent and Allure reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Allure-FF7B00?style=flat-square&logo=qameta&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SharifulIslamSabuj/api-automation-framework">🔌 Grocery Store API Framework</a></h3>
+      <p>Layered architecture with POJO modeling and token-based authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/REST%20Assured-47A248?style=flat-square&logo=json&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TestNG-DD0031?style=flat-square&logo=testng&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SharifulIslamSabuj/BDDFramework-ParabankAutomation">🥒 Selenium + BDD Framework (ParaBank)</a></h3>
+      <p>Behaviour-driven end-to-end suite with Selenium Grid, Docker, and GitHub Actions CI/CD.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TestNG-DD0031?style=flat-square&logo=testng&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Selenium%20Grid-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
-</div>
-
-<details>
-<summary><b>📂 &nbsp;What's inside each framework</b></summary>
-
-<br/>
-
-| Framework | Stack | Highlights |
-|---|---|---|
-| **Playwright + TypeScript Hybrid** | Playwright · TypeScript | Scalable **UI & API** automation, reusable components, CI/CD |
-| **Playwright + Python Hybrid** | Playwright · Python · pytest | UI / API / Hybrid across **Chromium · Firefox · WebKit**, `pytest-xdist` parallel runs, GitHub Actions CI/CD, Allure + pytest-html, traces & browser-scoped artifacts |
-| **Mobile Automation** | Appium · Java | Real-device & Android-emulator testing, Extent + Allure reporting |
-| **Grocery Store API** | REST Assured · TestNG | Layered architecture, POJO modeling, token-based auth |
-| **Selenium + BDD (ParaBank)** | Cucumber · TestNG · POM | Selenium Grid, Docker, GitHub Actions CI/CD |
-
-</details>
 
 <br/>
 
@@ -203,10 +208,6 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifulIslamSabuj&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SharifulIslamSabuj&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </div>
 
 <br/>
