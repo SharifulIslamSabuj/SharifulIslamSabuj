@@ -265,6 +265,8 @@ If deep testing rigor and a quality-engineering mindset are what your team needs
 
 <a href="https://linkedin.com/in/sharifulislam-sqa"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shariful.islam5417@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/8801787661351"><img src="https://img.shields.io/badge/WhatsApp-%2B880%201787%20661351-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="tel:+8801719711265"><img src="https://img.shields.io/badge/Mobile-%2B880%201719%20711265-0d9488?style=for-the-badge&logo=phone&logoColor=white"/></a>
 
 </div>
 
