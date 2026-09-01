@@ -202,12 +202,7 @@
 ## 📈 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SharifulIslamSabuj&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SharifulIslamSabuj&hide_border=true&background=0d1117&stroke=1f2937&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifulIslamSabuj&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharifulIslamSabuj&hide_border=true&background=0d1117&stroke=1f2937&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <br/>
